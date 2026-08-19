@@ -37,7 +37,7 @@ Stay updated with my latest projects and work by connecting with me on LinkedIn 
 
 
 
-🔗 Open to: Internship | Entry-Level Role | Freelance | Project Collaboration
+🔗 Open to: Full-Stack Development | Development Role | Freelance | Project Collaboration
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ayush.prajapatii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush--prajapati) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@easystudy26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushprajapati2926@gmail.com) 
 
