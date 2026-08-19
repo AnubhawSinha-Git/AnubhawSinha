@@ -10,7 +10,7 @@ Email Me 👉 ✉️ workwithanubhaw@gmail.com
 - 👯 **I’m looking to collaborate on: Web development projects, startups & open-source contributions
 - 🤔 **I’m looking for help with: Performance optimization & scalable full-stack architecture
 - 💬 **Ask me about: HTML, CSS, JavaScript, React, MERN Stack, PHP, MySQL, Git & APIs
-- 📫 **How to reach me: aayushprajapati2926@gmail.com
+- 📫 **How to reach me: workwithanubhaw@gmail.com
 - 😄 **Pronouns:** Anubhaw
 - ⚡ **Fun fact: I love turning ideas into real-world web applications 🚀
 
