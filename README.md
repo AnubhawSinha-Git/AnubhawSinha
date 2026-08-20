@@ -1,15 +1,15 @@
 # 💫 Hi 👋, I'm Anubhaw Sinha
 
-A passionate Full Stack Web Developer (MERN Stack) || React.js Developer || PHP–MySQL Developer from India 🇮🇳
+A passionate Full Stack Web Developer || React.js Developer || MySQL Developer from India 🇮🇳
 
 Email Me 👉 ✉️ workwithanubhaw@gmail.com
- For Internship / Job / Collaboration / Project or Anything Else. 😊😊
+ For Job / Collaboration / Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on: Full-stack web applications, e-commerce platforms & management systems
 - 🌱 **I’m currently learning: Advanced React.js, REST APIs, backend optimization & scalable systems
 - 👯 **I’m looking to collaborate on: Web development projects, startups & open-source contributions
 - 🤔 **I’m looking for help with: Performance optimization & scalable full-stack architecture
-- 💬 **Ask me about: HTML, CSS, JavaScript, React, MERN Stack, PHP, MySQL, Git & APIs
+- 💬 **Ask me about: HTML, CSS, Java, Python, JavaScript, React, MySQL, Git & APIs
 - 📫 **How to reach me: workwithanubhaw@gmail.com
 - 😄 **Pronouns:** Anubhaw
 - ⚡ **Fun fact: I love turning ideas into real-world web applications 🚀
@@ -18,9 +18,9 @@ Email Me 👉 ✉️ workwithanubhaw@gmail.com
 
 Stay updated with my latest projects and work by connecting with me on LinkedIn and GitHub.
 
-[![](https://visitcount.itsvg.in/api?id=AyushPrajapati&icon=1&color=4)](https://www.linkedin.com/in/ayush--prajapati/)
+[![](https://visitcount.itsvg.in/api?id=AyushPrajapati&icon=1&color=4)](https://www.linkedin.com/in/anubhaw-sinha-6a6b78231)
 
-[![](https://visitcount.itsvg.in/api?id=Aayush7843&icon=1&color=4)](https://www.linkedin.com/in/ayush--prajapati/)
+[![](https://visitcount.itsvg.in/api?id=Aayush7843&icon=1&color=4)](https://www.linkedin.com/in/anubhaw-sinha-6a6b78231)
 
 
 
